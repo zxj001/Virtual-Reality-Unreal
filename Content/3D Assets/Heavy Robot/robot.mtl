@@ -1,0 +1,735 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__255 (4) to come 
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__255 done 
+#
+# Multi/Sub Material__244 (3) to come 
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__244 done 
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__233 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__233 done 
+#
+# Multi/Sub Material__222 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__222 done 
+#
+# Multi/Sub Material__211 (3) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__211 done 
+#
+# Multi/Sub Material__200 (3) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__200 done 
+#
+# Multi/Sub Material__189 (3) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__189 done 
+#
+# Multi/Sub Material__178 (4) to come 
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+# Multi/Sub Material__178 done 
+#
+# Multi/Sub Material__167 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__167 done 
+#
+# Multi/Sub Material__156 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__156 done 
+#
+# Multi/Sub Material__145 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__145 done 
+#
+# Multi/Sub Material__134 (6) to come 
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Хромирование
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  7.4
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl 200_90_2
+Ka  0.8 0.4 0.1
+Kd  0.8 0.4 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__134 done 
+#
+# Multi/Sub Material__123 (3) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__123 done 
+#
+# Multi/Sub Material__112 (4) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+# Multi/Sub Material__101 (2) to come 
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__101 done 
+#
+# Multi/Sub Material__90 (3) to come 
+#
+newmtl 80_80_80
+Ka  0.3 0.3 0.3
+Kd  0.3 0.3 0.3
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__90 done 
+#
+# Multi/Sub Material__79 (3) to come 
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__79 done 
+#
+# Multi/Sub Material__68 (3) to come 
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__57 (5) to come 
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl FrontCol
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__57 done 
+#
+newmtl Default
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  1.0 1.0 1.0
+d  1.0
+Ns  7.1
+illum 2
+#
+# Multi/Sub Material__46 (5) to come 
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl FrontCol
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__35 (4) to come 
+#
+newmtl 60_60_60
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Внутренние_детал
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Цвет_корпуса
+Ka  0.6 0.0 0.1
+Kd  0.6 0.0 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  9.6
+illum 2
+#
+newmtl Прокладки
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.3 0.3 0.3
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# EOF

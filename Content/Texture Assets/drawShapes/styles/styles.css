@@ -1,0 +1,136 @@
+* {
+    font-family: monospace;
+}
+
+html, body {
+    height: 100%;
+    width: auto;
+}
+
+html {
+    text-align: center;
+    align-content: center;
+    overflow-y: hidden;
+    /*
+    background-image: url("face.gif");
+    */
+}
+body {
+    font-size: 24px;
+}
+ul {
+    list-style: none;
+}
+h1{
+    font-size: 2em;
+}
+h2 {
+    padding-top: 10%;
+    font-size: 1.5em;
+}
+h3 {
+    padding-top: 5%;
+    font-size: 1.2em;
+}
+p {
+    border-left: 6px solid black;
+    border-right: 6px solid black;
+    text-align: justify;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    line-height: 1.5em;
+}
+
+img {
+}
+section {
+    display: block;
+    background-repeat: no-repeat;
+    /*color: white;*/
+}
+li {
+    list-style-image: 
+}
+a {
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    color: #4f8fff;
+}
+a:link {
+    color: #4f8fff;
+}
+a:visited {
+}
+
+a:hover {
+    color: grey;
+    cursor: pointer;
+}
+
+a:active {
+    color: red;
+}
+
+.top-header {
+    text-align: left;
+    margin: auto;
+    padding-left: 1em;
+    padding-top: 1em;
+
+}
+.logo {
+    display: block;
+    vertical-align: top;
+    
+    font-weight: bold;
+    font-size: 4em;
+}
+.projects-list {
+    display: block;
+    margin: 0;
+    width: 400px;
+}
+.images {
+    vertical-align: top;
+    display: inline-block;
+}
+.prevImageContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.content-img {
+    position: center center fixed;
+    max-width: 50%;
+}
+#myCanvas {
+    position: absolute;
+    display: block;
+    background: white;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    z-index: -10;
+    
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    
+    overflow: hidden;
+}
+
+#prevImage {
+}
+
+#tumblr {
+}
+
+#content {
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+
